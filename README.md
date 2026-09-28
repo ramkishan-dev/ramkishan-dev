@@ -55,17 +55,11 @@ and user-friendly web applications.
 
 ---
 
-## 📚 Currently Learning
+## 📚 What I'm Learning
 
-```text
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-REST APIs
-   ↓
-Full Stack Development
+- ⚛️ React.js
+- 🟢 Node.js & Express.js
+- 🔗 REST APIs
+- 🍃 MongoDB
+- 🧠 Data Structures & Algorithms
+- 🚀 Full Stack Development
