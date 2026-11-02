@@ -50,7 +50,7 @@ and user-friendly web applications.
 | 🛒 E-Commerce | Full-stack e-commerce application |
 | 🎵 Spotify Clone | Music streaming UI using JavaScript |
 | 🎮 Simon Says | Interactive JavaScript game |
-| 🌾 Agricultural Portfolio | Responsive agricultural website |
+| 🌾 Build React Calculator App|
 | 🧠 DSA Java | Data Structures & Algorithms practice |
 
 ---
